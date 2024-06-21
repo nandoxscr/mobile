@@ -10,4 +10,7 @@ require (
 	golang.org/x/tools v0.22.0
 )
 
-require golang.org/x/sys v0.21.0 // indirect
+require (
+	golang.org/x/mobile v0.0.0-20201217150744-e6ae53a27f4f // indirect
+	golang.org/x/sys v0.21.0 // indirect
+)
