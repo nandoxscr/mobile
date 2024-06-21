@@ -26,9 +26,9 @@ import "C"
 
 import (
 	"bufio"
-	"log"
+	//"log"
 	"os"
-	"syscall"
+	//"syscall"
 	"unsafe"
 )
 
